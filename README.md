@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-This is the ** Data Warehouse and Analytics Project** repository!
+This is the **Data Warehouse and Analytics Project** repository!
 In this project, I follow the course made by Baraa Khatib Salkini in creating a Data Warehouse from scratch, as well as doing data analysis on it. It is designed as a portfolio project that
 highlights industry best practices in data engineering and analytics. 
 
